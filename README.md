@@ -80,20 +80,20 @@ Middleware-based authorization
 Proper error handling & response structure
 
 🛠 Tech Stack
-Frontend
+~ Frontend
 
-React.js
+~ React.js
 
-Tailwind CSS
+~ Tailwind CSS
 
-Backend
+~ Backend
 
-Node.js
+~ Node.js
 
-Express.js
+~ Express.js
 
-MongoDB
+~ MongoDB
 
-JWT (jsonwebtoken)
+~ JSON Web Token (JWT)
 
-bcrypt
+~ bcrypt
