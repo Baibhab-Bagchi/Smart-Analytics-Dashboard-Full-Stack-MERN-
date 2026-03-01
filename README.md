@@ -25,13 +25,13 @@ This project demonstrates how a secure SaaS dashboard works in a production envi
 🏗 Architecture
 
 Client (React + Tailwind)
-⬇
+->
 Express REST API
-⬇
+->
 Middleware (Auth + Role Protection)
-⬇
+->
 Controllers
-⬇
+->
 MongoDB Database
 
 Backend is structured using:
