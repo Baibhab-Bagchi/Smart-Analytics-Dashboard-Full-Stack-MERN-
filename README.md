@@ -97,3 +97,30 @@ Proper error handling & response structure
 ~ JSON Web Token (JWT)
 
 ~ bcrypt
+
+
+📂 Project Structure
+smart-analytics-dashboard
+│
+├── Client/                    # React Frontend
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── context/
+│       ├── pages/
+│       ├── routes/
+│       ├── App.jsx
+│       ├── main.jsx
+│       ├── index.css
+│       └── App.css
+│
+├── Server/                    # Express Backend
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── server.js
+│   ├── package.json
+│   └── package-lock.json
+│
+└── README.md
